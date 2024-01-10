@@ -30,7 +30,7 @@
                     <div class="left">
                         <div class="content">
                             <div class="header">
-                                <div class="logo text-center"><img src="{{asset('assets/img/tokoKirana.jpg')}}" style="height:120px; width:250px;" alt="Klorofil Logo"></div>
+                                <div class="logo text-center"><img src="{{asset('assets/img/logo-dark.png')}}" alt="Klorofil Logo"></div>
                                 <p class="lead">Login to your account</p>
                             </div>
                             <form class="form-auth-small" method="POST" action="{{ route('login') }}">
@@ -74,7 +74,7 @@
                         <div class="overlay"></div>
                         <div class="content text">
                             <h1 class="heading">Inventory Stock Management</h1>
-                            <p>by Toko Kirana</p>
+                            <p>by The Develovers</p>
                         </div>
                     </div>
                     <div class="clearfix"></div>
